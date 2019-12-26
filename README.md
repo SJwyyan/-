@@ -9,6 +9,10 @@
 	
 工作量:
        何佳辉:UsecaseModel.docx
+       谢梓峰:用例图.docx   
+       庄贵和:用例图.docx
+       魏毅鑫:数据字典ER图.docx
+
        
 工作评分:
        何佳辉:1
